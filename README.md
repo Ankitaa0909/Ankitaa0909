@@ -90,8 +90,6 @@ Designed and deployed a highly available PHP web application on AWS using a mult
  - Managed source code and project documentation using Git and GitHub
  - Implemented multi-tier architecture following AWS best practices
 
-AWS Services Used: EC2, Auto Scaling Group, Application Load Balancer, RDS, Security Groups, VPC 
-
 **Tech Stack:** AWS, Linux, Apache, PHP, MySQL, Git, GitHub
 
 ---
@@ -178,7 +176,6 @@ Implemented highly available cloud solutions across multiple regions.
 - AWS Certified Solutions Architect – Associate
 - Advanced Certification in Cloud Computing & DevOps (IIT Roorkee)
 - Google Cloud Gen AI Academy APAC Edition
-- Goethe Zertifikat A2
 
 ---
 
