@@ -54,6 +54,7 @@ I am a Cloud & DevOps Engineer passionate about designing, automating, and manag
 - Elastic Load Balancer
 - SNS
 - CloudFormation
+- Application Load Balancer (ALB)
 
 ### Programming & Scripting
 - Python
@@ -74,6 +75,26 @@ I am a Cloud & DevOps Engineer passionate about designing, automating, and manag
 ---
 
 ## 📌 Featured Projects
+
+### 🌐 AWS Multi-Tier Web Application Deployment
+
+Designed and deployed a highly available PHP web application on AWS using a multi-tier architecture with Auto Scaling, Load Balancing, and Amazon RDS.
+
+#### Highlights
+ - Deployed PHP web application on Amazon EC2 instances
+ - Configured Auto Scaling Group with minimum 2 EC2 instances for high availability
+ - Implemented Application Load Balancer (ALB) for traffic distribution
+ - Created and configured Amazon RDS MySQL database
+ - Established secure communication between EC2 and RDS using Security Groups
+ - Configured Apache, PHP, and MySQL connectivity
+ - Managed source code and project documentation using Git and GitHub
+ - Implemented multi-tier architecture following AWS best practices
+
+AWS Services Used: EC2, Auto Scaling Group, Application Load Balancer, RDS, Security Groups, VPC
+
+**Tech Stack:** AWS, Linux, Apache, PHP, MySQL, Git, GitHub
+
+---
 
 ### ☸️ AWS EKS Platform Operations & GitOps
 
