@@ -94,6 +94,23 @@ Designed and deployed a highly available PHP web application on AWS using a mult
 
 ---
 
+### 🚀 DevOps CI/CD Pipeline Implementation
+
+Implemented a complete DevOps lifecycle for a web application using Jenkins, Docker, GitHub, and Ansible.
+
+#### Highlights
+
+* Implemented Git workflow using **develop** and **master** branches
+* Automated Build, Test, and Deploy stages using Jenkins Pipeline
+* Configured GitHub webhook-based CI/CD automation
+* Containerized application using Docker (`hshar/webapp`)
+* Automated server configuration using Ansible
+* Enabled production deployment only from the **master** branch
+
+**Tech Stack:** Jenkins, Docker, GitHub, Git, Ansible, Linux, CI/CD
+
+---
+
 ### ☸️ AWS EKS Platform Operations & GitOps
 
 Managed and operated Kubernetes workloads on Amazon EKS.
