@@ -111,6 +111,21 @@ Implemented a complete DevOps lifecycle for a web application using Jenkins, Doc
 
 ---
 
+### 🏥 Healthcare SNS Notification Platform
+
+Implemented a secure healthcare messaging solution on AWS using CloudFormation, VPC, EC2, and Amazon SNS to privately deliver patient report notifications.
+
+**Highlights**
+
+* Provisioned infrastructure using CloudFormation
+* Created secure VPC networking
+* Integrated EC2 with Amazon SNS
+* Implemented private notification delivery workflow
+
+**Tech Stack:** AWS CloudFormation, VPC, EC2, SNS, IAM, Python
+
+---
+
 ### ☸️ AWS EKS Platform Operations & GitOps
 
 Managed and operated Kubernetes workloads on Amazon EKS.
