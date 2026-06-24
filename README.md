@@ -155,20 +155,6 @@ Provisioned AWS infrastructure using Infrastructure as Code.
 
 ---
 
-### 🔄 CI/CD Pipeline Automation
-
-Implemented automated software delivery pipelines.
-
-#### Highlights
-- GitHub Actions workflow automation
-- Jenkins-based CI/CD pipelines
-- Docker image build and deployment
-- Kubernetes application deployment
-
-**Tech Stack:** Jenkins, GitHub Actions, Docker, Kubernetes
-
----
-
 ### 📊 Monitoring & Observability Platform
 
 Built monitoring and alerting solutions for cloud workloads.
@@ -183,23 +169,20 @@ Built monitoring and alerting solutions for cloud workloads.
 
 ---
 
-### 🌍 Multi-Region Cloud Deployments
+### 🌍 Azure Multi-Region Web Application Deployment
 
-Implemented highly available cloud solutions across multiple regions.
+Designed a highly available multi-region web application on Azure using Traffic Manager, Application Gateway, Virtual Machines, Blob Storage, and VNet Peering.
 
-#### Azure
-- Traffic Manager
-- Application Gateway
-- Azure Kubernetes Service (AKS)
-- Disaster Recovery Architecture
+**Highlights**
 
-#### Google Cloud
-- Cloud Run
-- Artifact Registry
-- IAM Access Management
-- Autoscaling Optimization
+* Multi-region deployment across Central US and West US
+* Traffic routing using Azure Traffic Manager
+* Path-based routing with Application Gateway
+* Blob Storage integration for file uploads
+* Static website hosting for custom error pages
 
-**Tech Stack:** Azure, GCP
+**Tech Stack:** Azure, Traffic Manager, Application Gateway, VM, Blob Storage, VNet Peering
+
 
 ---
 
