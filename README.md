@@ -90,7 +90,7 @@ Designed and deployed a highly available PHP web application on AWS using a mult
  - Managed source code and project documentation using Git and GitHub
  - Implemented multi-tier architecture following AWS best practices
 
-AWS Services Used: EC2, Auto Scaling Group, Application Load Balancer, RDS, Security Groups, VPC
+AWS Services Used: EC2, Auto Scaling Group, Application Load Balancer, RDS, Security Groups, VPC 
 
 **Tech Stack:** AWS, Linux, Apache, PHP, MySQL, Git, GitHub
 
