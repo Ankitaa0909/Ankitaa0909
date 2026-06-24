@@ -1,110 +1,188 @@
 # 👋 Hi, I'm Ankita Kadam
 
-## ☁️ AWS | DevOps | Cloud Engineer
+## ☁️ AWS Certified Solutions Architect Associate | DevOps Engineer | Cloud Enthusiast
 
-I am an aspiring **Cloud & DevOps Engineer** with hands-on experience in building and automating cloud infrastructure using modern DevOps tools and AWS services.
-
-I enjoy working on real-world projects involving **cloud deployment, infrastructure automation, and CI/CD pipelines**.
+I am a Cloud & DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure. I have hands-on experience with AWS, Azure, and GCP, along with modern DevOps practices including Infrastructure as Code, Kubernetes, GitOps, and CI/CD automation.
 
 ---
 
 ## 🚀 About Me
 
-* 🌩️ AWS Certified Solutions Architect – Associate
-* 🐳 Hands-on experience with Docker & containerization
-* ⚙️ Working on Infrastructure as Code using Terraform
-* 🔧 Experience with Ansible for configuration management
-* 🔄 Learning CI/CD pipelines using Jenkins
-* 🐧 Comfortable with Linux environments
-* 🎯 Goal: Become a strong DevOps / Cloud Engineer in product-based companies
+- 🌩️ AWS Certified Solutions Architect – Associate
+- ☁️ Experience with AWS, Microsoft Azure, and Google Cloud Platform
+- 🐳 Containerization using Docker and Kubernetes
+- ⚙️ Infrastructure as Code using Terraform & Terragrunt
+- 🔄 CI/CD Automation using GitHub Actions and Jenkins
+- 🚀 GitOps deployments using ArgoCD and Helm
+- 📊 Monitoring & Observability using Grafana, Prometheus, and CloudWatch
+- 🔐 Cloud Security, IAM, Networking, and Cost Optimization
+- 🐧 Linux enthusiast with hands-on troubleshooting experience
+- 🎯 Aspiring Cloud & DevOps Engineer focused on building reliable and scalable cloud platforms
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Cloud:**
-AWS (EC2, IAM, VPC basics)
+### Cloud Platforms
+- AWS
+- Microsoft Azure
+- Google Cloud Platform (GCP)
 
-**DevOps Tools:**
-Docker, Jenkins, Terraform, Ansible
+### DevOps & Automation
+- Docker
+- Kubernetes (EKS)
+- Jenkins
+- GitHub Actions
+- Terraform
+- Terragrunt
+- Ansible
+- ArgoCD
+- Helm
 
-**Operating System:**
-Linux (Ubuntu)
+### Monitoring & Observability
+- Grafana
+- Prometheus
+- AWS CloudWatch
 
-**Languages / Basics:**
-HTML, CSS, Bash scripting basics
+### AWS Services
+- EC2
+- VPC
+- IAM
+- S3
+- RDS
+- Auto Scaling
+- Elastic Load Balancer
+- SNS
+- CloudFormation
 
-**Version Control:**
-Git, GitHub
+### Programming & Scripting
+- Python
+- Bash
+- Shell Scripting
+- SQL
+
+### Databases
+- MySQL
+- Amazon RDS
+- Azure SQL
+
+### Operating Systems
+- Linux
+- Ubuntu
+- Windows Server
 
 ---
 
 ## 📌 Featured Projects
 
-### 🐳 Docker Nginx Static Website
+### ☸️ AWS EKS Platform Operations & GitOps
 
-Containerized and deployed a static website using Docker and Nginx.
+Managed and operated Kubernetes workloads on Amazon EKS.
 
-* Built Docker image using Dockerfile
-* Served website using Nginx container
-* Ran and tested locally on port 8080
+#### Highlights
+- Cluster lifecycle management and upgrades
+- GitOps deployment using ArgoCD
+- Helm-based application deployments
+- IAM and security policy implementation
+- Monitoring with Grafana, Prometheus, and CloudWatch
 
-**Tech Used:** Docker, Nginx, HTML, CSS
+**Tech Stack:** AWS EKS, Kubernetes, ArgoCD, Helm, Grafana, Prometheus
 
 ---
 
-### ☁️ AWS EC2 Provisioning using Terraform
+### 🏗️ Cloud Infrastructure Automation
 
 Provisioned AWS infrastructure using Infrastructure as Code.
 
-* Created EC2 instance using Terraform
-* Automated cloud resource provisioning
-* Managed infrastructure lifecycle using code
+#### Highlights
+- Created reusable Terraform modules
+- Managed infrastructure with Terragrunt
+- Provisioned EC2, VPC, IAM, S3, and RDS resources
+- Automated deployment workflows
 
-**Tech Used:** AWS, Terraform
-
----
-
-### ⚙️ Ansible Server Configuration
-
-Automated server setup and configuration using Ansible.
-
-* Installed and configured Nginx on EC2
-* Automated system updates and service management
-* Used inventory and playbooks
-
-**Tech Used:** Ansible, Linux, AWS EC2
+**Tech Stack:** AWS, Terraform, Terragrunt
 
 ---
 
-### 🔄 Jenkins CI/CD Pipeline
+### 🔄 CI/CD Pipeline Automation
 
-Built a basic CI/CD pipeline for automation.
+Implemented automated software delivery pipelines.
 
-* Automated build and deployment workflow
-* Integrated GitHub with Jenkins
-* Executed Docker-based deployment pipeline
+#### Highlights
+- GitHub Actions workflow automation
+- Jenkins-based CI/CD pipelines
+- Docker image build and deployment
+- Kubernetes application deployment
 
-**Tech Used:** Jenkins, GitHub, Docker
+**Tech Stack:** Jenkins, GitHub Actions, Docker, Kubernetes
 
 ---
 
-## 📊 Current Learning Path
+### 📊 Monitoring & Observability Platform
 
-* Kubernetes (K8s)
-* Advanced AWS Services
-* CI/CD automation improvements
-* Real-world DevOps project architecture
+Built monitoring and alerting solutions for cloud workloads.
+
+#### Highlights
+- Grafana dashboards
+- Prometheus metrics collection
+- CloudWatch alarms and log monitoring
+- Infrastructure health visibility
+
+**Tech Stack:** Grafana, Prometheus, AWS CloudWatch
+
+---
+
+### 🌍 Multi-Region Cloud Deployments
+
+Implemented highly available cloud solutions across multiple regions.
+
+#### Azure
+- Traffic Manager
+- Application Gateway
+- Azure Kubernetes Service (AKS)
+- Disaster Recovery Architecture
+
+#### Google Cloud
+- Cloud Run
+- Artifact Registry
+- IAM Access Management
+- Autoscaling Optimization
+
+**Tech Stack:** Azure, GCP
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- Advanced Certification in Cloud Computing & DevOps (IIT Roorkee)
+- Google Cloud Gen AI Academy APAC Edition
+- Goethe Zertifikat A2
+
+---
+
+## 📈 Currently Exploring
+
+- Advanced Kubernetes Administration
+- Platform Engineering
+- Site Reliability Engineering (SRE)
+- Multi-Cloud Architecture
+- DevSecOps Practices
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Ankitaa0909
-* Location: India 🇮🇳
+📧 Email: ankitamkadam@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/ankita-kadam2809
+
+🐙 GitHub: https://github.com/Ankitaa0909
+
+📍 Pune, India
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To become a **Cloud / DevOps Engineer** and build scalable, secure, and automated cloud infrastructure systems.
+To contribute as a Cloud & DevOps Engineer by building secure, scalable, automated, and highly available cloud-native infrastructure while continuously learning emerging technologies in the cloud ecosystem.
