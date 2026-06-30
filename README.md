@@ -76,7 +76,7 @@ I am a Cloud & DevOps Engineer passionate about designing, automating, and manag
 ## 🧰 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,python,azure,gcp,mysql,jenkins,apache,git,ansible"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,python,azure,gcp,mysql,jenkins,git,ansible"/>
 </p>
 
 ---
